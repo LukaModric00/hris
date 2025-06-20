@@ -1,6 +1,6 @@
 ### Hris
 
-HRIS for African Union
+HRIS
 
 ### Installation
 
