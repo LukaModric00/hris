@@ -1,7 +1,3 @@
-Here's your refined, professional, and concise technical test for the Frappe/ERPNext + HRMS developer position, clearly structured and without providing explicit code snippets or SOPs.
-
----
-
 # 🚀 **Technical Test – Frappe/ERPNext Developer + HRMS**
 
 ### 🎯 **Objective**
