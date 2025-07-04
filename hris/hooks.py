@@ -242,3 +242,14 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+
+doc_events = {
+    "Employee": {
+        "after_insert": "hris.events.employee.after_insert",
+        "on_update": "hris.events.employee.on_update",
+        "before_save": "hris.events.employee.before_save"
+    },
+    "Leave Application": {
+        "validate": "hris.events.leave_application.validate"
+    }
+}
